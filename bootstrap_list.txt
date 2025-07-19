@@ -6,7 +6,7 @@ bootstrap_list = [
 	["194.163.177.0:31245", "6xVdxLTEi2CESXvxgvDJqiitB5wKP4cZ4AWaepqWZf7xr6hyNo"],
 	["173.249.55.103:31245", "6bHaZUeLcWs4F8JiJdtmE8ZNeTys4VJFsp76DU6a4CYVvVJp1c"],
 	["65.108.49.230:31245", "5uUgcsUd6nmTL88k8YYhFmjBKMeMh5qMRZ7gbuVyXAmuWsuVTf"],
-	["144.91.88.109:31245", "66bw3ydYbAJkgdecj6XxGpRDQpLKTPJxP9Yf4tw1NQhT1k1egb"],
+	["144.91.88.109:31245", "66bw3ydYbAJkgdecj6XxGpRDQpLKTPJxP9hT1k1egb"],
 	["207.180.221.227:31245", "6v4oLM2iKknQTkN6uRhYrxnj8agmiaTwb9uVhcVEAFTtNWupZH"], 
 	["164.68.125.90:31245", "5khr4BtqomvZaRwFuKYaHGqHVwS618mfynLHvwxN7xmp6jM86N"],
 	["149.202.86.103:31245", "5GcSNukkKePWpNSjx9STyoEZniJAN4U4EUzdsQyqhuP3WYf6nj"],
